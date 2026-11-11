@@ -48,7 +48,7 @@ export default function Home() {
 
       <div className="mt-8 flex gap-4">
         <a
-          href="https://to-do-app-gqqt-9zq7ppm03-yesayaroland02-webs-projects.vercel.app/login" target="_blank"
+          href="https://kagemaya-web-frontend.vercel.app/" target="_blank"
           className="rounded-lg bg-blue-600 px-6 py-3 font-medium text-white transition hover:bg-blue-700"
         >
           View Portfolio
