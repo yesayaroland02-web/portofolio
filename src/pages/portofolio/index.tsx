@@ -89,12 +89,12 @@ export default function Portfolio() {
            <p></p>
            <br />
             <a
-                href="https://to-do-app-gqqt-9zq7ppm03-yesayaroland02-webs-projects.vercel.app/login"
+                href="https://kagemaya-web-frontend.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-blue-700"
             >
-                <span>To-Do App Online</span>
+                <span>Kagemaya</span>
             </a>
            <p></p>
            <br />
