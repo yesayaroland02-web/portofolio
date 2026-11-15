@@ -7,7 +7,7 @@ export default function Portfolio() {
      <section className={`mt-6 text-xl ${isDark ? "text-gray-300" : "text-gray-600"}`}>
 
       <h1 className={`text-3xl font-bold ${isDark ? "text-white" : "text-gray-900"}`}>
-        Portfolio
+        Portofolio
       </h1>
        <br />
 
