@@ -12,7 +12,7 @@ export default function Portfolio() {
        <br />
 
       <h2 className={`text-2xl font-semibold ${isDark ? "text-blue-400" : "text-blue-600"}`}>
-        Project Title: Interactive To-Do List Application
+        Project Title: Kagemaya App
       </h2>
       <p className={`mt-6 text-xl ${isDark ? "text-gray-300" : "text-gray-600"}`}>
       Technologies: React.js, TypeScript, Node.js, Tailwind CSS, and Vercel
@@ -24,8 +24,8 @@ export default function Portfolio() {
       </h2>
 
       <p className={`mt-6 text-xl ${isDark ? "text-gray-300" : "text-gray-600"}`}>
-       Aplikasi manajemen tugas (To-Do List) berbasis web yang dirancang untuk membantu pengguna mengatur, 
-       memantau, dan mengelola produktivitas harian secara efisien melalui antarmuka yang responsif dan fleksibel.
+       Aplikasi ini bertujuan untuk membantu user dalam memilih film berdasarkan jadwal dan pelaksanaan
+        yang ditentukan
       <p></p>
       <br />
       </p>
@@ -38,9 +38,8 @@ export default function Portfolio() {
 
        <p></p>
        <br /> 
-       Banyak pengguna menghadapi kendala dalam mengelola jadwal dan prioritas harian karena kurangnya 
-       alat pelacak tugas yang responsif, terstruktur, dan mudah diakses dari berbagai perangkat
-       
+       Banyak pengguna menghadapi kendala dalam mengelola jadwal sebuah film dan 
+       menunggu antrian panjang dalam memilih sebuah film
        <p></p>
        <br /> 
 
@@ -48,10 +47,8 @@ export default function Portfolio() {
        <p></p>
        <br />
 
-       Membangun aplikasi web To-Do App yang memungkinkan pengguna menambahkan, 
-       mengedit, menghapus, serta menandai status penyelesaian tugas secara real-time 
-       dengan sistem otentikasi/manajemen data yang aman.
-
+       Membangun aplikasi web Kagemaya yang memungkinkan pengguna melakukan pemesanan
+        tiket film kolaborasi Indonesia dan Jepang lebih mudah.
        <p></p>
        <br />
 
@@ -75,8 +72,8 @@ export default function Portfolio() {
        4. Result: 
        <p></p>
        <br />
-        Berhasil meluncurkan aplikasi manajemen tugas yang cepat, stabil, serta mendukung berbagai 
-        ukuran layar (mobile & desktop) dengan waktu muat halaman yang optimal.
+        Berhasil meluncurkan aplikasi kagemaya yang bertujuan untuk memilih film yang diinginkan
+        dan mengelola jadwal film yang sudah ditentukan.
        <p></p>
        <br />
         
