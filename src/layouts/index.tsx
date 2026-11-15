@@ -33,7 +33,7 @@ export default function RootLayout() {
               Skill
             </Link>
             <Link to="/portofolio" className="transition hover:text-blue-300">
-              Portfolio
+              Portofolio
             </Link>
             <Link to="/contacts" className="transition hover:text-blue-300">
               Contact
